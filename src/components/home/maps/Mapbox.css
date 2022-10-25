@@ -1,0 +1,24 @@
+.mapboxgl-ctrl-geocoder {
+  width: 1000px !important;
+  border-radius: 20px;
+  border: 1.75px solid #00489e;
+
+  /* background-color: #00489e; */
+  color: #fff;
+  box-shadow: none;
+}
+
+.mapboxgl-ctrl-geocoder ::placeholder {
+  color: black;
+  font-size: 15.5px;
+  align-items: center;
+}
+
+/* .mapboxgl-marker {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  background-color: lightblue;
+  color: "yellow";
+} */
